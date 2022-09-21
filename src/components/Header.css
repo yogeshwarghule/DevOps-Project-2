@@ -1,0 +1,19 @@
+.header {
+    width: 100vw;
+    height: 40px;
+    background-color: blue;
+    text-align: right;
+}
+
+
+.header .filter_product {
+    padding: 4px 18px;
+    margin-top: 6px;
+    margin-right: 10px;
+}
+
+.header .search_input {
+    padding: 4px 20px;
+    margin-right: 40px;
+    outline: none;
+}
